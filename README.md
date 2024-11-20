@@ -261,7 +261,7 @@ Similarly, for the NVIDIA T4, the roofline before the ridge point is $y=300GB/s*
 
 
 
-对应的roofline图如下：
+roofline model:
 
 <img src="/Users/bang/Desktop/Cloud%20and%20ML/proj1/roofline_T4.png" alt="roofline_T4" style="zoom:40%;" />
 
